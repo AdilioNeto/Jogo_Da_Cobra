@@ -2,3 +2,4 @@ main.exe
 main.o
 Cobra.cbp
 melhorpontuacao.txt
+.gitignore
